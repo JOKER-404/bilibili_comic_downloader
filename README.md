@@ -1,0 +1,2 @@
+# bilibili_comic_downloader
+用于下载bilibili漫画
