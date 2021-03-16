@@ -3,7 +3,7 @@ import os
 import requests
 import re
 
-cookie="" # 设置cookie值，直接粘贴字符串即可
+cookie='''''' # 设置cookie值，直接粘贴字符串即可
 
 def transCookie(cookie):
     cookie = cookie.split(';')
